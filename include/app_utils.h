@@ -1,4 +1,5 @@
 // app_utils.h
+// main header file of program
 
 #ifndef APP_UTILS_H
 #define APP_UTILS_H
